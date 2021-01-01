@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Test Deploy
+          React Test Deploy_cancle
         </a>
       </header>
     </div>
