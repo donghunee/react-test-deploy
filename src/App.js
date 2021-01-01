@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React Test Deploy_ cloud_front
+          React Test Deploy_ cloud_front / invlidation
         </a>
       </header>
     </div>
